@@ -1,0 +1,4 @@
+*.o
+apuec_system
+data/match_log.txt
+data/registration_log.txt
